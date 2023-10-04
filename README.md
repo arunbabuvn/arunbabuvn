@@ -3,10 +3,10 @@
 <img src="https://i.giphy.com/media/26BGIqWh2R1fi6JDa/giphy.webp" width="30%">
 
 ```python
-myself = {
-  name : "Arun Babu"
-  pronouns : "he" | "him",
-  language : [HTML, CSS, Python, Dart],
-  tools : [flutter, django],
+Myself = {
+  Name : "Arun Babu"
+  Pronouns : "He" | "Him",
+  Language : [HTML, CSS, Python, Dart],
+  Tools : [Flutter, Django],
 }
 ```
