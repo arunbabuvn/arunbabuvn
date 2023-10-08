@@ -7,6 +7,6 @@ Myself = {
   Name : "Arun Babu"
   Pronouns : "He" | "Him",
   Language : ["HTML", "CSS", "Python", "Dart"],
-  Tools : ["Flutter", "Django"],
+  Tools : ["Flutter", "Django", "Linux"],
 }
 ```
