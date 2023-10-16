@@ -1,4 +1,4 @@
-<h1>Hello there</h1>
+<h1>Hello There</h1>
 
 <img src="https://i.giphy.com/media/26BGIqWh2R1fi6JDa/giphy.webp" width="30%">
 
